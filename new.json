@@ -1,5 +1,5 @@
 {
-	"oerson":{
+	"person":{
 		"name":"Igor",
 		"age":38,
 		"Cat":{
@@ -9,5 +9,5 @@
 	
 		"desired fee":10000$
 	}
-}
+
 
