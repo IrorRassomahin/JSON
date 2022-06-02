@@ -1,0 +1,13 @@
+{
+	"oerson":{
+		"name":"Igor",
+		"age":38,
+		"Cat":{
+			"name":"Vary",
+			"age":3
+		},
+	
+		"desired fee":10000$
+	}
+}
+
